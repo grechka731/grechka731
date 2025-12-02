@@ -2,11 +2,20 @@
 
 ---
 
-### Обо мне
+### 📝 Обо мне
 
 - 🔭 **Сейчас работаю** над моей библиотекой/движком на C++: [RICA](https://github.com/grechka731/RICA)
 - 🌱 **Изучаю**: **raylib, SFML, Dear ImGui**
 - 📝 **Пишу статьи** в моем Telegram-канале: [https://t.me/RICA_engine](https://t.me/RICA_engine)
+
+---
+
+### 🚀 Моя статистика GitHub / GitHub Stats
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=grechka731&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues" alt="GitHub Stats" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grechka731&layout=compact&theme=dark&hide=css,html&langs_count=6&exclude_repo=RICA" alt="Top Languages" width="45%" />
+</p>
 
 ---
 
@@ -16,7 +25,10 @@
     <a href="https://t.me/RICA_engine" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-    </p>
+    <a href="http://guns.lol/bygrechka" target="_blank">
+        <img src="https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
+    </a>
+</p>
 
 ---
 
@@ -57,3 +69,13 @@
         <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
     </a>
 </p>
+
+---
+
+### 🐍 Моя активность на GitHub / My GitHub Activity Snake
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/grechka731/grechka731/output/github-contribution-grid-snake-dark.svg" alt="GitHub Activity Snake" />
+</p>
+
+---
