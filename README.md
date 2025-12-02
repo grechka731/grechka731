@@ -71,11 +71,3 @@
 </p>
 
 ---
-
-### 🐍 Моя активность на GitHub / My GitHub Activity Snake
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/grechka731/grechka731/output/github-contribution-grid-snake-dark.svg" alt="GitHub Activity Snake" />
-</p>
-
----
